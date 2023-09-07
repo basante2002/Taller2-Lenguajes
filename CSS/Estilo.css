@@ -1,0 +1,49 @@
+.cabecera {
+  display: flex;
+  font-family: "Segoe UI";
+  text-align: center;
+  color: aliceblue;
+  background-color: red;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+}
+
+.contenedor {
+  display: flex;
+  background-color: white;
+  padding: 20px;
+  border: solid 1px black;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: 400px;
+}
+
+.footer {
+  display: flex;
+  font-family: "Segoe UI";
+  color: aliceblue;
+  background-color: red;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  font-size: 8;
+}
+
+.button {
+  display: flex;
+  font-family: "Segoe UI";
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+  width: 200px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
